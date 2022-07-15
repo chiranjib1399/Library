@@ -1,0 +1,22 @@
+body{
+    background-image: url(Image/library.jpg);
+    background-size: cover;
+}
+
+.ctu{
+    background-color: rgb(187, 218, 7);
+}
+.container{
+    margin-top: 10%;
+    background-color: rgb(184, 225, 19);
+    margin-right: 70%;
+    opacity: 0.9;
+
+}
+.book-details{
+background-color: rgb(152, 207, 12);
+justify-items: right;
+margin-left: 50%;
+margin-bottom: 60%;
+opacity: 0.8;
+}
